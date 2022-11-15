@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "http://fb.com";
+            window.location = "http://fb.com/dung.dua.voi.bo.may.khong.co.zui/";
           },
         });
       }
