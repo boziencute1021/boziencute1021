@@ -1,5 +1,5 @@
 const textConfig = {
-  text1: "Yooooooooo! Weo cằm to my minigame!",
+  text1: "Yooooooooo! Weo cằm to my gift for you!",
   text2: "Giờ hỏi câu này phải trả lời thật lòng nha bà dà.",
   text3: "Yêu ank có phải hơm ._.",
   text4: "Nếu mà ko trả lời mà thoát ra tức là muốn làm vợ ank rùi đó nha :v",
@@ -7,10 +7,10 @@ const textConfig = {
   text6: "Yêu ơi là yêu <3",
   text7: "Lí do bé thích ank đi :vvvv",
   text8: "Gửi cho ank  <3",
-  text9: "Vì Bòa Ziên đẹp zai lại còn tốt bụng nứa... :3",
+  text9: "Vì Thế Anh đẹp zai lại còn tốt bụng nứa... :3",
   text10: "Ank biết ngay mò hihi ^^ Yêu iem ơi là yêu <3",
   text11:
-    "Cúi tuần qua đón iem đi chơi nhaa :v Còn giờ quay lại inbox cho ank đi nàooo",
+    "Thương em nhứt trên đời luônn :v Còn giờ quay lại inbox cho ank đi nàooo",
   text12: "Okii lunn <3",
 };
 
